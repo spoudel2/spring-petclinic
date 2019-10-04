@@ -1,6 +1,3 @@
-//Hello My friend how are you doing.
-
-
 FROM java:8
 MAINTAINER Intelycore Guys
 WORKDIR /app
